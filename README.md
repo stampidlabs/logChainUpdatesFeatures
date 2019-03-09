@@ -10,3 +10,6 @@ logChainUpdatesFeatures são todas as modificações que já realizamos no servi
 * Features formato de registro: ````cert_Singlechain```` e ````cert_Multichain````
 * Lançamento da Lista betaChain
 * Reajustes no preço por cada registro
+* Alteração na url da página no facebook:   
+Antes--> ~https://www.facebook.com/mystampid~
+Agora--> https://www.facebook.com/stampid.me
