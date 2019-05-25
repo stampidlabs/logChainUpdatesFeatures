@@ -13,3 +13,5 @@ logChainUpdatesFeatures são todas as modificações que já realizamos no servi
 * Alteração na url da página no facebook:   
 Antes--> ~https://www.facebook.com/mystampid~
 Agora--> https://www.facebook.com/stampid.me
+# MAIO 2019
+* Todos os certificados de Prova Autoral e Autenticidade passa a ser enviado do e-mail: cert@stampid.me
