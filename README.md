@@ -15,3 +15,6 @@ Antes--> ~https://www.facebook.com/mystampid~
 Agora--> https://www.facebook.com/stampid.me
 # MAIO 2019
 * Todos os certificados de Prova Autoral e Autenticidade passa a ser enviado do e-mail: cert@stampid.me
+# NOVEMBRO 2022
+*O domínio usando durante todo nosso período de teste e uso agora não faz mais parte do nosso projeto. Desde de 2019 que eu (Tayrone Santos) deixe de lado o serviço e fiquei apenas para uso interno.
+*Deixe aqui meu agradecimento a cada um que confiou meu trabalho, reafirmo todos os registros contínua válidos.
